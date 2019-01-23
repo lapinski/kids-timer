@@ -1,0 +1,9 @@
+deploy:
+  provider: pages
+  skip-cleanup: true
+  keep-history: true
+  github-token:
+    secure: McFxXScdmDZn7DebzRo9zdT1cWenhaMIOO0iU778bhDFz5IinmSnDYMXggfv5fcOvC/7QNLBL+zsc8LHGG+F8lyHGCLiGcdATVgtzIbVhy0DG84dpUcd8xZuAYp78YAFam5V/iGu8R5gomU3j2DsIObIIwDpp7aZey5SAnpG57gkDqGVQTRH8cna1UCm0X/4BoEd336MgiYs658lcM/WDzkR5QbMAiYEbtCPbXCiBLqgr94rgaq+/CPKJfXFdFNPnbGxRz6ZARP9PR70DvL6f54srQ/onB3gGSyGp6DoJbdU0EdqXN76CN3FmTzxnQlvJrMSJpzvsm+HPW5OEmAiWtLt8q3mswUKC4HrK/Clc9qJpXPGbREwDpSsJzAMHBrG1FdVbLdbFJjM2eZZtIUlNwXGowWks41AZlJefKx5xktWOvpsjR/d3qDRollCKVTL8/N8PUY/ZyO8tcP5JShpHJ+m8uMxRRqw/kQj1GRyBY2K6F5HDhBBUoW54Um3kzDbAO9xPe7pINaSnZFiMDD9lAp+xkWNfl7IiTg2xzMPDiyYYkgkFJP/3cBmQn80rVRb2Al+vWovhYsXvablzWiNz255FKSCJHsCi43rl86dpL9QZbG6efkHohGp2BipopO/52G8WcGFnXbUdo39xWelBdyz+mE7bLCepfAk7hJvPSE=
+  on:
+    branch: master
+
